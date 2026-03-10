@@ -1,4 +1,22 @@
 ## RETENCIÓN DE CLIENTES – ANÁLISIS ESTRATÉGICO TELCO
+## 📂 Estructura del Proyecto
+```
+telco-churn-analysis/
+│
+├── data/
+│   └── test.csv
+│
+├── notebooks/
+│   └── TELECO_PRYTO.ipynb
+│
+├── sql/
+│   └── sql_telco.sql
+│
+├── visualizations/
+│   └── churn_insights.pdf
+│
+└── README.md
+```
 # Contexto del Proyecto
 Este proyecto se basa en un dataset sintético de una empresa de telecomunicaciones, obtenido de:
 https://huggingface.co/datasets/muqsith123/telco-customer-churn/viewer/default/train?p=42
