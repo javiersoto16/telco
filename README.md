@@ -1,4 +1,4 @@
-RETENCIÓN DE CLIENTES – ANÁLISIS ESTRATÉGICO TELCO
+## RETENCIÓN DE CLIENTES – ANÁLISIS ESTRATÉGICO TELCO
 # Contexto del Proyecto
 Este proyecto se basa en un dataset sintético de una empresa de telecomunicaciones, obtenido de:
 https://huggingface.co/datasets/muqsith123/telco-customer-churn/viewer/default/train?p=42
