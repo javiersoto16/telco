@@ -83,13 +83,19 @@ Implicación Estratégica:
 
 # CONCLUSIÓN EJECUTIVA
 El churn en Telco:
-No es masivo.
-No es aleatorio.
-No es de bajo valor.
-Es estructural, temprano y concentrado en clientes Mes a Mes con integración parcial.
-
+No es masivo, ni aleatorio, ni de bajo valor. Es estructural, temprano y concentrado en clientes Mes a Mes con integración parcial.
 La estrategia óptima combina:
-✔ Onboarding intensivo
-✔ Migración temprana a contratos anuales
-✔ Bundles estratégicos
-✔ Seguimiento de clientes de valor medio-alto
+Onboarding intensivo, migración temprana a contratos anuales, bundles estratégicos y seguimiento de clientes de valor medio-alto.
+
+# RECOMENDACIONES ESTRATÉGICAS
+1) Mejorar el onboarding de nuevos clientes
+La mayor parte del churn ocurre en el primer año. Implementar un proceso de onboarding estructurado y seguimiento durante los primeros 6 meses puede ayudar a consolidar la relación con el cliente.
+
+2) Incentivar contratos de mayor duración
+Los contratos Mes a Mes presentan el mayor churn. Promover contratos anuales mediante descuentos o beneficios exclusivos para contratos anuales o bundles de servicios asociados a contratos de mayor duración puede aumentar la estabilidad de ingresos.
+
+3) Promover servicios digitales clave
+Servicios como Seguridad Online y Backup Online están asociados a menores tasas de churn. Integrarlos desde el inicio puede mejorar la retención promoviéndolos durante el onboarding, ofrecer pruebas gratuitas iniciales e integrarlos en paquetes o bundles estratégicos.
+
+4) Proteger clientes de alto valor
+Muchos clientes que abandonan tienen gasto medio-alto y varios servicios contratados. Identificar estos segmentos y aplicar estrategias de fidelización puede reducir pérdidas económicas como diseñando programas de fidelización o beneficios premium y aplicar monotorización proactiva de riesgo de churn.
